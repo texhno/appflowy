@@ -127,5 +127,16 @@
       "instruction3": "Naviga sul seguente link con il tuo browser web e inserisci il codice seguente:",
       "instruction4": "Premi il bottone qui sotto quando hai completato l'iscrizione:"
     }
+  },
+  "settings": {
+    "title": "Settings",
+    "menu": {
+      "appearance": "Appearance",
+      "language": "Language"
+    },
+    "appearance": {
+      "lightLabel": "Light Mode",
+      "darkLabel": "Dark Mode"
+    }
   }
 }

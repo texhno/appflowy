@@ -127,5 +127,16 @@
       "instruction3": "进入下面的链接，然后输入上面的代码：",
       "instruction4": "完成注册后，点击下面的按钮："
     }
+  },
+  "settings": {
+    "title": "Settings",
+    "menu": {
+      "appearance": "Appearance",
+      "language": "Language"
+    },
+    "appearance": {
+      "lightLabel": "Light Mode",
+      "darkLabel": "Dark Mode"
+    }
   }
 }
